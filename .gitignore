@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+assets/.DS_Store
+.DS_Store
+.DS_Store
