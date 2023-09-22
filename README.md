@@ -4,3 +4,4 @@ A Beneficial Guide to Operating an Engaging Mini Program 🎆 离谱的小程序
 
 ![千万用户量的小程序](/assets/status.jpg)
 ![流量主收益](/assets/ad.jpg)
+![交易指标趋势](/assets/trend.jpg)
